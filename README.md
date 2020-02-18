@@ -1,5 +1,5 @@
 # FairRec
-## Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
+### Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
 
 ## Citation Information
 If you use this repository in your research, please cite the following paper.
