@@ -1,6 +1,6 @@
 # Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
 ## Relevance Scores
-You can use the relevance scores estimated in your dataset in csv format (rows: customers, columns: producers) for your application scenario. Alternatively you can test with our ones. The relevance scores calculated for the datasets (used in the paper) can be found in the following links in csv formats.
+You can use the relevance scores estimated in your dataset in csv format (rows: customers, columns: producers) for your application scenario. Alternatively you can test with ours. The relevance scores calculated for the datasets (used in the paper) can be found in the following links in zipped csv format.
 * [GL-CUSTOM]() : Custom relevance function on [Google Local ratings data](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local).
 * [GL-FACT]() : Relevance scores from latent embedding based factorization on [Google Local ratings data](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local).
 * [LF]() : Relevance scores from latent embedding based factorization on [Last.fm data](https://grouplens.org/datasets/hetrec-2011/).
