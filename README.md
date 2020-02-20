@@ -8,7 +8,7 @@ There are three arguments here.<br>
 * size of recommendation or _k_ like _10_ above. <br>
 * value of α (our producer-side guarantee will be α×MMS. The value of α can be in between 0 and 1) like _0.5_ above.
 
-It saves the recommendations in zipped pickle file (dictionary format { <customer> : <list_of_recommended_products> }).
+It saves the recommendations in zipped pickle file (dictionary format { customer : list_of_recommended_products }).
   
 ## Relevance Scores
 You can use the relevance scores estimated in your dataset in csv format (rows: customers, columns: producers) for your application scenario. Alternatively you can test with ours. The relevance scores calculated for the datasets (used in the paper) can be found in the following links in zipped csv format.
