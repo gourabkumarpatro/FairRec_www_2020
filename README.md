@@ -4,10 +4,9 @@
 python fairrec_algorithm.py google_local_fact.csv 10 0.5
 ```
 There are three arguments here.<br>
-* path to csv file with relevance scores (rows: customers, columns: producers)<br>
-e.g., google_local_fact.csv
-* size of recommendation or _k_<br>
-* value of α (our producer-side guarantee will be α×MMS)
+* path to csv file with relevance scores (rows: customers, columns: producers) like _google_local_fact.csv_ above. <br>
+* size of recommendation or _k_ like _10_ above. <br>
+* value of α (our producer-side guarantee will be α×MMS. The value of α can be in between 0 and 1) like _0.5_ above.
 ## Relevance Scores
 You can use the relevance scores estimated in your dataset in csv format (rows: customers, columns: producers) for your application scenario. Alternatively you can test with ours. The relevance scores calculated for the datasets (used in the paper) can be found in the following links in zipped csv format.
 * [GL-CUSTOM](https://zenodo.org/record/3675113/files/GL-CUSTOM.csv.zip?download=1) : Custom relevance function on [Google Local ratings data](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local).
