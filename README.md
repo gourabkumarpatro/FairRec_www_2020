@@ -7,7 +7,11 @@ There are three arguments here.<br>
 * path to csv file with relevance scores (rows: customers, columns: producers)<br>
 e.g., google_local_fact.csv
 * size of recommendation or _k_<br>
-* value of ```tex $\alpha$``` (our producer-side guarantee will be $\alpha$MMS)
+* value of 
+```tex 
+$\alpha$
+``` 
+(our producer-side guarantee will be $\alpha$MMS)
 ## Relevance Scores
 You can use the relevance scores estimated in your dataset in csv format (rows: customers, columns: producers) for your application scenario. Alternatively you can test with ours. The relevance scores calculated for the datasets (used in the paper) can be found in the following links in zipped csv format.
 * [GL-CUSTOM](https://zenodo.org/record/3675113/files/GL-CUSTOM.csv.zip?download=1) : Custom relevance function on [Google Local ratings data](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local).
