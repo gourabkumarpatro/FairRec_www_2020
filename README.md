@@ -17,7 +17,7 @@ You can use the relevance scores estimated in your dataset in csv format (rows: 
 * [LF](https://zenodo.org/record/3675113/files/LF.csv.zip?download=1) : Relevance scores from latent embedding based factorization on [Last.fm data](https://grouplens.org/datasets/hetrec-2011/).
 ## Citation Information
 If you use this repository in your research, please cite the following paper.
-* **_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.** <br>
+* [**_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.**](https://arxiv.org/abs/2002.10764) <br>
 Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Chakraborty.<br>
 To appear in proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020. <br>
 
