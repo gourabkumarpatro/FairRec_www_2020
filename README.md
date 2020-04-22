@@ -23,18 +23,19 @@ To appear in proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020
 
 You can use the following bibtex.<br>
 ```tex
-@inproceedings{patro_FairRec_WWW20,
+@inproceedings{10.1145/3366423.3380196,
 author = {Patro, Gourab K and Biswas, Arpita and Ganguly, Niloy and Gummadi, Krishna P. and Chakraborty, Abhijnan},
-title = {FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.},
+title = {FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms},
 year = {2020},
-isbn = {978-1-4503-7023-3/20/04},
+isbn = {9781450370233},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3366423.3380196},
 doi = {10.1145/3366423.3380196},
-booktitle = {The World Wide Web Conference},
-pages = {},
+booktitle = {Proceedings of The Web Conference 2020},
+pages = {1194–1204},
 numpages = {11},
+keywords = {Fair Allocation, Fair Recommendation, Maximin Share, Two-Sided Markets, Envy-Freeness},
 location = {Taipei, Taiwan},
 series = {WWW ’20}
 }
