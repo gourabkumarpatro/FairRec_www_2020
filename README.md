@@ -19,7 +19,7 @@ You can use the relevance scores estimated in your dataset in csv format (rows: 
 If you use this repository in your research, please cite the following paper.
 * [**_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.**](https://arxiv.org/abs/2002.10764) <br>
 Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Chakraborty.<br>
-To appear in proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020. <br>
+In proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020. <br>
 
 You can use the following bibtex.<br>
 ```tex
