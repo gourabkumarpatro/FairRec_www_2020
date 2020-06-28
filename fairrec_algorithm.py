@@ -52,7 +52,7 @@ def FairRec(U,P,k,V,alpha):
     #print(sum([len(F[u]) for u in U]))
    
     # number of copies of each producer
-    l=math.ceil(alpha*int((m*k)/(n+0.0)))
+    l=int(alpha*m*k/(n+0.0))
 
     # R= number of rounds of allocation to be done in first GRR
     R=int(math.ceil((l*n)/(m+0.0)))
