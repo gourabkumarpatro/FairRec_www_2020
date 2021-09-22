@@ -32,8 +32,7 @@ def remove_envy_cycle(B,U,V):
         # add edges to the graph
         G.add_edges_from(E) 
         # find cycle and remove
-        print("In envy cycle removal: graph done, finding and removing cycles")
-        #while True:
+        print("In envy cycle removal: graph done, finding and removing cycles")        
         try:
             cycle=nx.find_cycle(G,orientation="original")
             temp=B[cycle[0][0]][:]
