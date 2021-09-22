@@ -1,7 +1,8 @@
 # Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
 ## Running FairRec
 ```python
-python fairrec_algorithm.py google_local_fact.csv 10 0.5
+python FairRec.py google_local_fact.csv 10 0.5
+python FairRecPlus.py google_local_fact.csv 10 0.5
 ```
 There are three arguments here.<br>
 * path to csv file with relevance scores (rows: customers, columns: producers) like _google_local_fact.csv_ above. <br>
