@@ -1,4 +1,4 @@
-# Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms
+# Towards Fair Recommendation in Two-Sided Platforms
 ## Running FairRec or FairRecPlus
 ```python
 python FairRec.py google_local_fact.csv 10 0.5
