@@ -21,8 +21,10 @@ If you use this repository in your research, please cite the following paper.
 * [**_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.**](https://arxiv.org/abs/2002.10764) <br>
 Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Chakraborty.<br>
 In proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020. <br>
-
-You can use the following bibtex.<br>
+* [**_Toward Fair Recommendation in Two-sided Platforms._**](https://arxiv.org/abs/2201.01180)<br>
+Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Chakraborty.<br>
+ACM Transactions on the Web (TWEB). 2021 Dec 21;16(2):1-34.<br>
+You can use any of the following bibtex.<br>
 ```tex
 @inproceedings{10.1145/3366423.3380196,
 author = {Patro, Gourab K and Biswas, Arpita and Ganguly, Niloy and Gummadi, Krishna P. and Chakraborty, Abhijnan},
@@ -39,5 +41,17 @@ numpages = {11},
 keywords = {Fair Allocation, Fair Recommendation, Maximin Share, Two-Sided Markets, Envy-Freeness},
 location = {Taipei, Taiwan},
 series = {WWW ’20}
+}
+```
+```tex
+@article{biswas2021toward,
+  title={Toward Fair Recommendation in Two-sided Platforms},
+  author={Biswas, Arpita and Patro, Gourab K and Ganguly, Niloy and Gummadi, Krishna P and Chakraborty, Abhijnan},
+  journal={ACM Transactions on the Web (TWEB)},
+  volume={16},
+  number={2},
+  pages={1--34},
+  year={2021},
+  publisher={ACM New York, NY}
 }
 ```
