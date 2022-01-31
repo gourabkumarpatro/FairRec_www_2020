@@ -17,7 +17,7 @@ You can use the relevance scores estimated in your dataset in csv format (rows: 
 * [GL-FACT](https://zenodo.org/record/3675113/files/GL-FACT.csv.zip?download=1) : Relevance scores from latent embedding based factorization on [Google Local ratings data](https://cseweb.ucsd.edu/~jmcauley/datasets.html#google_local).
 * [LF](https://zenodo.org/record/3675113/files/LF.csv.zip?download=1) : Relevance scores from latent embedding based factorization on [Last.fm data](https://grouplens.org/datasets/hetrec-2011/).
 ## Citation Information
-If you use this repository in your research, please cite the following paper.
+If you use this repository in your research, please cite the following papers.
 * [**_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms.**](https://arxiv.org/abs/2002.10764) <br>
 Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Chakraborty.<br>
 In proceedings of The Web Conference (WWW), Taipei, Taiwan, April 2020. <br>
@@ -26,7 +26,7 @@ Gourab K Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi and Abhijnan Ch
 ACM Transactions on the Web (TWEB). 2021 Dec 21;16(2):1-34.<br>
 
 
-You can use any of the following bibtex.<br>
+You can use the following bibtex.<br>
 ```tex
 @inproceedings{10.1145/3366423.3380196,
 author = {Patro, Gourab K and Biswas, Arpita and Ganguly, Niloy and Gummadi, Krishna P. and Chakraborty, Abhijnan},
